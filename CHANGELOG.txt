@@ -1,2 +1,2 @@
-1.0.5:
-- vers update
+1.0.6:
+- version update
