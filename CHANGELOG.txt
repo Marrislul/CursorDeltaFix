@@ -1,2 +1,2 @@
-1.0.6:
-- version update
+1.0.7:
+- updated to 11.1.0
