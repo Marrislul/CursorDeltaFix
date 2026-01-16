@@ -1,0 +1,7 @@
+## Interface: 20505
+## Title: Cursor Delta Fix
+## Notes: Fixes the cursor delta when holding right or left mouse button.
+## Author: Marris
+## Version: @project-version@
+
+CursorDeltaFix.lua
