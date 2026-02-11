@@ -1,4 +1,4 @@
-## Interface: 120000
+## Interface: 120001
 ## Title: Cursor Delta Fix
 ## Notes: Fixes the cursor delta when holding right or left mouse button.
 ## Author: Marris

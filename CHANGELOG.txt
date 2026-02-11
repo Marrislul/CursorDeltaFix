@@ -1,2 +1,2 @@
-1.1.1:
-- added Midnight support
+1.1.2:
+- update auf 12.0.1
